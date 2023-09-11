@@ -7,7 +7,7 @@ Detecting change through multi-image, multi-date remote sensing is essential to 
 # Objective
 The aim of this project is to build a robust classifier able to classify a given geographical feature into one of six classes
 
-![Screenshot-2022-01-06-at-11-14-12](https://github.com/Abdennacer-Badaoui/Classification-of-geospatial_data/assets/106801897/cb8ad1c2-33cc-47cf-8904-9a1fb3e6d2ac)
+  ![Screenshot-2022-01-06-at-11-14-12](https://github.com/Abdennacer-Badaoui/Classification-of-geospatial_data/assets/106801897/cb8ad1c2-33cc-47cf-8904-9a1fb3e6d2ac)
 
 
 # Methodology
